@@ -213,7 +213,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 ![Images Alt](https://github.com/Abhijeet0405/3-Tier-Real-Time-Chat-App-Kubernetes/blob/ac77ddd2b7dd2d66b297366e150cf9478c766949/Screenshot%202026-04-17%20130545.png)
 
 
-![logout](/frontend/public/logout.png)
+![logout](https://github.com/Abhijeet0405/3-Tier-Real-Time-Chat-App-Kubernetes/blob/79ad7c22d0039be36cf59b586664ef18ac449f9e/Screenshot%202026-04-17%20130526.png)
 
 ![Login](https://github.com/Abhijeet0405/3-Tier-Real-Time-Chat-App-Kubernetes/blob/b2e4276ce4383c03afcd2a0435cf317da102d908/Screenshot%202026-04-20%20130045.png)
 
