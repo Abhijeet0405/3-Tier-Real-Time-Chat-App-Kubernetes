@@ -210,6 +210,8 @@ This project is evolving, and here are a few exciting things on the horizon:
 ![Settings](frontend/public/settings.png)
 
 ![chat](frontend/public/chat.png)
+![Images Alt](https://github.com/Abhijeet0405/3-Tier-Real-Time-Chat-App-Kubernetes/blob/ac77ddd2b7dd2d66b297366e150cf9478c766949/Screenshot%202026-04-17%20130545.png)
+
 
 ![logout](/frontend/public/logout.png)
 
